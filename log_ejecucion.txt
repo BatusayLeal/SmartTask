@@ -1,0 +1,67 @@
+
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: Nombre de la tarea: Tipo de tarea:
+1. Normal
+2. Urgente
+Seleccione tipo: Tarea normal agregada correctamente.
+
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: Nombre de la tarea: Tipo de tarea:
+1. Normal
+2. Urgente
+Seleccione tipo: Días límite: Tarea urgente agregada correctamente.
+
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: TAREAS ACTIVAS
+[NORMAL] ID: 1 | Nombre: Estudiar para el examen | Estado: Pendiente
+[URGENTE] ID: 2 | Nombre: Entregar proyecto final | Estado: Pendiente | Días límite: 5
+TAREAS COMPLETADAS
+(ninguna)
+
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: ID de la tarea a marcar como completada: 
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: ID de la tarea a eliminar: 
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: TAREAS ACTIVAS
+(ninguna)
+TAREAS COMPLETADAS
+[NORMAL] ID: 1 | Nombre: Estudiar para el examen | Estado: Completada
+
+===== SMARTTASK =====
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Seleccione una opción: Programa finalizado.
