@@ -27,13 +27,14 @@ javac -d out -cp "lib/*" test/com/smarttask/service/GestorTareasTest.java src/co
 java -cp "out:lib/*" org.junit.platform.console.ConsoleLauncher --class-path out --select-class com.smarttask.service.GestorTareasTest
 ```
 
-## es normal que aparezca el mensaje:
-## "Tarea no encontrada."
-## ¿Por qué aparece?
-## En el test testMarcarComoCompletada() tenemos esta línea a propósito:
-## Javagestor.marcarComoCompletada(999);  // ID que no existe
-## Esa llamada es para verificar que el programa no se cae cuando se intenta marcar una tarea inexistente. Como el método marcarComoCompletada imprime el mensaje por consola, aparece en el log de las pruebas.
-## No es un error. Las 3 pruebas están pasando correctamente (✔).
+es normal que aparezca el mensaje:
+"Tarea no encontrada."
+¿Por qué aparece?
+En el test testMarcarComoCompletada() tenemos esta línea a propósito:
+Javagestor.marcarComoCompletada(999); // ID que no existe
+Esa llamada es para verificar que el programa no se cae cuando se intenta marcar una tarea inexistente. Como el método marcarComoCompletada imprime el mensaje por consola, aparece en el log de las pruebas.
+No es un error. Las 3 pruebas están pasando correctamente (✔).
+Estructura de clases
 
 ## Estructura de clases
 
