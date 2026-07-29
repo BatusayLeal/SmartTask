@@ -48,4 +48,4 @@ test/
 
 ## Enlace al repositorio
 
-https://github.com/BatusayLeal/SMARTTASK
+https://github.com/BatusayLeal/SmartTask
