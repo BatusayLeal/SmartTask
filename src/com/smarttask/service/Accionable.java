@@ -1,7 +1,6 @@
 package com.smarttask.service;
 
 import com.smarttask.model.Tarea;
-
 public interface Accionable {
     void agregarTarea(Tarea tarea);
     void listarTareas();

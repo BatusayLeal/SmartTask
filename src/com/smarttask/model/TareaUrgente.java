@@ -9,6 +9,7 @@ public class TareaUrgente extends Tarea {
         this.diasLimite = diasLimite;
     }
 
+    
     public int getDiasLimite() {
         return diasLimite;
     }

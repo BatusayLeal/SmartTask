@@ -11,27 +11,28 @@ public class Tarea {
         this.completado = false;
     }
 
+    // Getters y Setters
     public int getId() {
         return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public String getNombre() {
         return nombre;
     }
 
+    public void setId(int id) {
+        this.id = id;
+    }
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
-    public boolean isCompletado() {
-        return completado;
-    }
-
     public void setCompletado(boolean completado) {
         this.completado = completado;
+    }
+
+    public boolean isCompletado() {
+        return completado;
     }
 }
